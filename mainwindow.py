@@ -1,5 +1,4 @@
 from typing import cast
-from PyQt6.QtWidgets import QMainWindow, QListWidget, QListWidgetItem, QWidget, QHBoxLayout, QSplitter
 from PyQt6.QtCore import pyqtSignal, pyqtBoundSignal, QSize
 from PyQt6.QtWidgets import QMainWindow, QListWidget, QListWidgetItem, QWidget, QHBoxLayout, QSplitter, QToolBar
 from PyQt6.QtWidgets import QWidget
