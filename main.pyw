@@ -1,15 +1,10 @@
 import os
 from PyQt6.QtWidgets import QApplication
 from PyQt6.QtGui import QColor, QPalette
-import consts
 from create_db import *
 from myrepo import *
-# from login_register import LoginWindow
 from mainwindow import MainWindow
 from datetime import *
-
-
-
 
 
 if __name__ == "__main__":
