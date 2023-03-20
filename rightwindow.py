@@ -1,5 +1,4 @@
-import sys
-from PyQt6.QtWidgets import QTableView, QWidget, QVBoxLayout, QSplitter
+from PyQt6.QtWidgets import QTableView, QSplitter
 from PyQt6.QtCore import QAbstractTableModel, Qt
 from PyQt6.QtWidgets import QWidget, QVBoxLayout
 from create_db import *
