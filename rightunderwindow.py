@@ -1,6 +1,6 @@
-from PyQt6.QtWidgets import QListWidget, QListWidgetItem, QWidget, QVBoxLayout
+from PyQt6.QtWidgets import QListWidget, QListWidgetItem
 from PyQt6.QtWidgets import QWidget, QVBoxLayout
-from PyQt6.QtCore import Qt,QSize,  pyqtBoundSignal
+from PyQt6.QtCore import QSize,  pyqtBoundSignal
 from typing import cast
 from some_kind_window import set_up_window
 from create_db import *
