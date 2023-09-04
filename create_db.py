@@ -11,6 +11,7 @@ Base = declarative_base()
 def create_db():
     Base.metadata.create_all(engine)
 
+
 class Отели(Base):
     '''self.id, self.название, self.регион'''
     __tablename__ = "Отели"
